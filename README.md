@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h3> 👨🏻‍💻 About Me </h3>
+
+I'm Griselda Alonso, I'm an enthusiastic woman who does web development, passionate about problem solving and a lifelong learner. 
+
 <!--
 **GriseldaAlonso/GriseldaAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
