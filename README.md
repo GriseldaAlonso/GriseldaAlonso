@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 👨🏻‍💻 About Me </h3>
 
 
 ```javascript
@@ -13,6 +13,14 @@ const griseldaAlonso = {
   tools: [Node, Jest],
 }
 ```
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/griselda-alonso-g/"><img src="https://img.shields.io/badge/-Griselda%20Alonso%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:griselda.alonso.g@gmail.com"><img src="https://img.shields.io/badge/-griselda.alonso.g@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 <!--
 **GriseldaAlonso/GriseldaAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
