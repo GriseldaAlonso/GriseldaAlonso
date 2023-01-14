@@ -5,10 +5,10 @@
 
 ```javascript
 const griseldaAlonso = {
-  pronouns: 'she' | 'her',
-  personalProfile: 'I'm an enthusiastic woman who does web development, passionate about problem solving and a lifelong learner.',
-  code: ['Javascript', 'HTML5', 'CSS3'],
-  tools: ['Node', 'Jest'],
+  pronouns: "she" | "her",
+  personalProfile: "I'm an enthusiastic woman who does web development, passionate about problem solving and a lifelong learner.",
+  code: [Javascript, HTML5, CSS3],
+  tools: [Node, Jest],
 }
 ```
 <!--
