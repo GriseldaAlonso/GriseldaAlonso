@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 <h3> 👨🏻‍💻 About Me </h3>
-
-I'm Griselda Alonso, I'm an enthusiastic woman who does web development, passionate about problem solving and a lifelong learner. 
-
+```javascript
+const griseldaAlonso = {
+  pronouns: 'she' | 'her',
+  personalProfile: 'I'm Griselda Alonso, I'm an enthusiastic woman who does web development, passionate about problem solving and a lifelong learner.',
+  code: [Javascript, HTML5, CSS3, Ruby],
+  tools: [Node, Jest],
+}
+```
 <!--
 **GriseldaAlonso/GriseldaAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
