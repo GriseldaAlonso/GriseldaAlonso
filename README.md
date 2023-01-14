@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/2558JrY/banner-profile-github.png" alt="banner-profile-github" border="0" height="350px" align='space-around'>
+<img src="https://i.ibb.co/2558JrY/banner-profile-github.png" alt="banner-profile-github" border="0" height="350px">
 
 ### Hi there 👋
 
