@@ -14,7 +14,7 @@ const griseldaAlonso = {
 }
 ```
 
-### 🤝🏻 &nbsp;Connect with Me
+### 📫 Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/griselda-alonso-g/"><img src="https://img.shields.io/badge/-Griselda%20Alonso%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
