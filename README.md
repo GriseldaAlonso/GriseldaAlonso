@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/6XbtTsj/hi-1.png" alt="hi-1" border="0" width="300px" align="right">
+<img src="https://i.ibb.co/2558JrY/banner-profile-github.png" alt="banner-profile-github" border="0" align="right">
 
 ### Hi there 👋
 
