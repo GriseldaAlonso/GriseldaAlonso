@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/2558JrY/banner-profile-github.png" alt="banner-profile-github" border="0" align="right">
+<img src="https://github.com/GriseldaAlonso/GriseldaAlonso/blob/main/assets/banner-profile-github.png" alt="banner-profile-github" border="0" align="center">
 
 ### Hi there 👋
 
