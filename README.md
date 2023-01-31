@@ -1,4 +1,25 @@
+<img src="https://i.ibb.co/2558JrY/banner-profile-github.png" alt="banner-profile-github" border="0" align="right">
+
 ### Hi there 👋
+
+### 👨🏻‍💻 About Me </h3>
+
+
+```javascript
+const griseldaAlonso = {
+  pronouns: "she" | "her",
+  personalProfile: "I'm an enthusiastic woman who does web development, passionate about problem solving and a lifelong learner.",
+  code: [Javascript, HTML5, CSS3],
+  tools: [Node, Jest],
+}
+```
+
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/griselda-alonso-g/"><img src="https://img.shields.io/badge/-Griselda%20Alonso%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:griselda.alonso.g@gmail.com"><img src="https://img.shields.io/badge/-griselda.alonso.g@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <!--
 **GriseldaAlonso/GriseldaAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
